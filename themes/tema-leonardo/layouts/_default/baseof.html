@@ -7,7 +7,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
 </head>
 <body>
 
@@ -30,7 +30,7 @@
   leonardo petersen lamha
 </footer>
 
-<script src="/js/sidenotes.js"></script>
+<script src="{{ "js/sidenotes.js" | relURL }}"></script>
 <div id="fonte-ctrl">
   <button onclick="mudarFonte(-1)">A−</button>
   <button onclick="mudarFonte(1)">A+</button>
