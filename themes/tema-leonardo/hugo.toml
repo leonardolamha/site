@@ -1,0 +1,7 @@
+# Configuração padrão do tema leonardo
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      footnote = true
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>a internet é eu e você</title>
+		<link>https://example.org/</link>
+		<description>Recent content on a internet é eu e você</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 26 Jun 2026 18:39:26 -0300</lastBuildDate>
+		
+			<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Post1</title>
+				<link>https://example.org/posts/post1/</link>
+				<pubDate>Fri, 26 Jun 2026 18:39:26 -0300</pubDate>
+				<guid>https://example.org/posts/post1/</guid>
+				<description>&lt;h2 id=&#34;teste-2&#34;&gt;Teste 2&lt;/h2&gt;&#xA;&lt;p&gt;Era uma vez uma menina linda chamada Ana.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li id=&#34;fn:1&#34;&gt;&#xA;&lt;p&gt;Quando encostava nela, ela virava uma gatinha&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/div&gt;</description>
+			</item>
+			<item>
+				<title>Um Ungeziefer e suas perninhas: Kafka em japonês (tradução de Yoko Tawada)</title>
+				<link>https://example.org/posts/tawada/</link>
+				<pubDate>Fri, 26 Jun 2026 18:39:26 -0300</pubDate>
+				<guid>https://example.org/posts/tawada/</guid>
+				<description>&lt;p&gt;Traduzi &lt;a href=&#34;https://www.toledo-programm.de/talks/7248/ein-ungeziefer-mit-duennen-beinchen-kafka-auf-japanisch&#34;&gt;esta fala de Yoko Tawada&lt;/a&gt;, escritora e tradutora japonesa, radicada na Alemanha. Tawada, que também traduziu &lt;em&gt;A metamorfose&lt;/em&gt; para o japonês, conta em alemão por que (não) traduzir o &lt;em&gt;inseto&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;img src=&#34;https://example.org/images/_tawadakafka.jpg&#34; alt=&#34;Tawada&#34; style=&#34;display:block; margin:0 auto;&#34; width=&#34;200&#34;&gt;&lt;hr&gt;&#xA;&lt;p&gt;Como um bicho, há uma palavra no meio do caminho, não consigo prosseguir: “Ungeziefer”. Talvez seja um “coletivo”, para quem o destino individual das baratas ou dos ratos não conta. Em Kafka, porém, trata-se de um único Ungeziefer, desprovido de congeneridade.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Viena</title>
+				<link>https://example.org/posts/em-viena/</link>
+				<pubDate>Fri, 26 Jun 2026 18:39:26 -0300</pubDate>
+				<guid>https://example.org/posts/em-viena/</guid>
+				<description>&lt;h1 id=&#34;atrações-de-viena-no-rastro-de-kafka-e-milena-em-viena-1---um-fotolog&#34;&gt;&amp;ldquo;Atrações de Viena&amp;rdquo;: no rastro de Kafka e Milena em Viena #1 - um fotolog&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Nada melhor me ocorre: vou te esperar na quarta na frente do hotel a partir das 10h da manhã. Por favor Milena não me surpreenda se aproximando pelo lado ou por trás, também não o farei. Hoje devo ver as &lt;em&gt;atrações&lt;/em&gt; de Viena: Lerchenfelderstraße, os correios, o &lt;em&gt;Gürtel&lt;/em&gt; da Südbanhof até a R. Lerch., a vendedora de carvão, essas coisas, o máximo possível sem ser visto. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>sobre mim e este site</title>
+				<link>https://example.org/sobre/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://example.org/sobre/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;img src=&#34;https://example.org/images/_shinji.png&#34; alt=&#34;a internet é eu e você&#34;&gt;&lt;p&gt;Oi, me chamo Leonardo Petersen Lamha e nasci em 1988, em Macaé, interior do Rio de Janeiro. Sou doutor em Literatura Comparada pela Universidade Federal Fluminense, e &lt;a href=&#34;sobre#artigos-e-resenhas&#34;&gt;pesquisador&lt;/a&gt; nas áreas de teoria literária, literatura alemã, estudos de tradução e teoria da mídia. Estive numa estadia de pesquisa na Universidade de Viena (2023-24) e na &lt;a href=&#34;https://www.temporal-communities.de/fellows/lamha/index.html&#34;&gt;Universidade Livre de Berlim (2024)&lt;/a&gt;. Você pode ver algumas fotos aqui. E meu &lt;a href=&#34;http://lattes.cnpq.br/7091135650447842&#34;&gt;currículo Lattes aqui&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

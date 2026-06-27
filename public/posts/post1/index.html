@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Post1 — a internet é eu e você</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+
+<header id="banner">
+  <h2><a href="/">a internet é eu e você</a></h2>
+  <nav>
+    <ul>
+      
+      <li><a href="/sobre/">Sobre</a></li>
+      
+    </ul>
+  </nav>
+</header>
+
+<main id="content">
+  
+<header id="post-header">
+  <h1>Post1</h1>
+  
+  <div>26 June 2026</div>
+  
+</header>
+
+<div class="conteudo-wrap">
+  <div class="conteudo">
+    <h2 id="teste-2">Teste 2</h2>
+<p>Era uma vez uma menina linda chamada Ana.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Quando encostava nela, ela virava uma gatinha&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+  </div>
+</div>
+
+</main>
+
+<footer id="footer">
+  leonardo petersen lamha
+</footer>
+
+<script src="/js/sidenotes.js"></script>
+<div id="fonte-ctrl">
+  <button onclick="mudarFonte(-1)">A−</button>
+  <button onclick="mudarFonte(1)">A+</button>
+</div>
+
+<script>
+(function() {
+  var tamanho = parseInt(localStorage.getItem('fonte')) || 16;
+  document.body.style.fontSize = tamanho + 'px';
+  window.mudarFonte = function(d) {
+    tamanho = Math.min(Math.max(tamanho + d, 12), 24);
+    document.body.style.fontSize = tamanho + 'px';
+    localStorage.setItem('fonte', tamanho);
+  };
+})();
+</script>
+</body>
+</html>

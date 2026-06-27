@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tags — a internet é eu e você</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+
+<header id="banner">
+  <h2><a href="/">a internet é eu e você</a></h2>
+  <nav>
+    <ul>
+      
+      <li><a href="/sobre/">Sobre</a></li>
+      
+    </ul>
+  </nav>
+</header>
+
+<main id="content">
+  
+<h1>Tags</h1>
+
+<ul id="posts">
+  
+</ul>
+
+</main>
+
+<footer id="footer">
+  leonardo petersen lamha
+</footer>
+
+<script src="/js/sidenotes.js"></script>
+<div id="fonte-ctrl">
+  <button onclick="mudarFonte(-1)">A−</button>
+  <button onclick="mudarFonte(1)">A+</button>
+</div>
+
+<script>
+(function() {
+  var tamanho = parseInt(localStorage.getItem('fonte')) || 16;
+  document.body.style.fontSize = tamanho + 'px';
+  window.mudarFonte = function(d) {
+    tamanho = Math.min(Math.max(tamanho + d, 12), 24);
+    document.body.style.fontSize = tamanho + 'px';
+    localStorage.setItem('fonte', tamanho);
+  };
+})();
+</script>
+</body>
+</html>

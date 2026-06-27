@@ -1,0 +1,19 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'a internet é eu e você'
+theme = 'tema-leonardo'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[markup.goldmark.parser]
+  wrapStandAloneImageWithinParagraph = false
+
+[markup.goldmark.parser.attribute]
+  block = true
+  title = true
+
+[[menus.main]]
+    name = "Sobre"
+    url = "/sobre/"
