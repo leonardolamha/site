@@ -12,7 +12,7 @@
 <body>
 
 <header id="banner">
-  <h2><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h2>
+  <h2><a href="{{ absURL "" }}">{{ .Site.Title }}</a></h2>
   <nav>
     <ul>
       {{ range .Site.Menus.main }}
