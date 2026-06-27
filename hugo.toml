@@ -19,7 +19,7 @@ theme = 'tema-leonardo'
     url = "/sobre/"
 
 [markup.goldmark.renderHooks.image]
-  enableDefault = true
+  useEmbedded = always
 
 [module]
   [[module.mounts]]
