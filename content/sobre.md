@@ -3,8 +3,6 @@ draft = false
 title = 'sobre mim e este site'
 +++
 
----
-
 ![a internet é eu e você](/images/_shinji.png)
 
 Oi, me chamo Leonardo Petersen Lamha e nasci em 1988, em Macaé, interior do Rio de Janeiro. Sou doutor em Literatura Comparada pela Universidade Federal Fluminense, e [pesquisador](sobre#artigos-e-resenhas) nas áreas de teoria literária, literatura alemã, estudos de tradução e teoria da mídia. Estive numa estadia de pesquisa na Universidade de Viena (2023-24) e na [Universidade Livre de Berlim (2024)](https://www.temporal-communities.de/fellows/lamha/index.html). Você pode ver algumas fotos aqui. E meu [currículo Lattes aqui](http://lattes.cnpq.br/7091135650447842).
@@ -13,7 +11,6 @@ Minha tese de doutorado, *Milenística: epistolaridade e tradução nas Cartas a
 
 Reviso e traduzo (en-ptbr, ptbr-en, de-ptbr) textos literários, acadêmicos, documentos técnicos e outros. Gostaria de legendar mais. Fui [roteirista e desenvolvedor](sobre#audiovisual) de projetos audiovisuais de 2012 a 2021 e publiquei [críticas e resenhas](sobre#outros) sobre literatura e outras mídias. Você pode me chamar em [leonardolamha@gmail.com](mailto:leonardolamha@gmail.com) ou mandar uma DM no [twitter](http://twitter.com/lnrdlmh), [instagram](https://www.instagram.com/leonardolamha/), [bsky](https://bsky.app/profile/lamha.bsky.social).
 
-
 [A internet é eu e você](/archives) é aonde deixo textinhos de ocasião sobre literatura e internet, enviados e armazenados também sob a forma de [newsletter no Substack](https://leonardolamha.substack.com/). Mas, na minha opinião, este site é melhor: apenas HTML e markdown, 100% livre de scripts, cookies e outras maldições.
 
 ---
@@ -21,19 +18,13 @@ Reviso e traduzo (en-ptbr, ptbr-en, de-ptbr) textos literários, acadêmicos, do
 
 Franz Kafka. _Cartas a Milena_ (no prelo).
 
-*Por enquanto, você pode conferir os pdfs da [pesquisa](https://app.uff.br/riuff/bitstream/handle/1/40945/Milenistica-VOL1-Estudo-23-10-25.pdf?sequence=2&isAllowed=y) e da [tradução](https://app.uff.br/riuff/bitstream/handle/1/40945/Milenistica-VOL2-Traducao-23-10-25.pdf?sequence=1&isAllowed=y) em formato de trabalho acadêmico.*
-
-
-## Livros
+- *Por enquanto, você pode conferir os pdfs da [pesquisa](https://app.uff.br/riuff/bitstream/handle/1/40945/Milenistica-VOL1-Estudo-23-10-25.pdf?sequence=2&isAllowed=y) e da [tradução](https://app.uff.br/riuff/bitstream/handle/1/40945/Milenistica-VOL2-Traducao-23-10-25.pdf?sequence=1&isAllowed=y) em formato de trabalho acadêmico.*
 
 Kenneth Burke. _Uma retórica de motivos_. Editora Machado. 2026 (no prelo)
 
 Harold Innis. _Império e Comunicações_. Editora Machado. 2025. ([Site da editora](https://machadoeditora.com/produto/imperio-e-comunicacoes/))
 
-![Innis](/images/_innis.png)
-
 *Assista [aqui](https://www.youtube.com/watch?v=dktk1H5qsb4 ) uma conversa sobre a obra no YouTube.*
-
 
 ## Traduções em antologias, catálogos etc
 
