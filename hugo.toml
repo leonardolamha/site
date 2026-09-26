@@ -1,4 +1,4 @@
-baseURL = 'http://leonardolamha.github.io/site/'
+baseURL = 'https://leonardolamha.org/'
 locale = 'en-us'
 title = 'a internet é eu e você'
 theme = 'tema-leonardo'
