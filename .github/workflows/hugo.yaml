@@ -117,7 +117,7 @@ jobs:
           hugo build \
             --gc \
             --minify \
-            --baseURL "https://leonardolamha.github.io/site/" \
+            --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
 
       - name: Cache save
