@@ -11,7 +11,7 @@ Oi, me chamo Leonardo Petersen Lamha e nasci em 1988, em Macaé, interior do Rio
 
 Minha tese de doutorado, *Milenística: epistolaridade e tradução nas Cartas a Milena, de Franz Kafka*, contém uma [tradução direta e integral desta obra](sobre#traduções), a primeira no Brasil.
 
-Reviso e traduzo (en-ptbr, ptbr-en, de-ptbr) textos literários, acadêmicos, documentos técnicos e outros. Gostaria de legendar mais. Fui [roteirista e desenvolvedor](sobre#audiovisual) de projetos audiovisuais de 2012 a 2021 e publiquei [críticas e resenhas](sobre#outros) sobre literatura e outras mídias. Você pode me chamar em [leonardolamha@gmail.com](mailto:leonardolamha@gmail.com) ou mandar uma DM no [~~twitter~~](http://twitter.com/lnrdlmh) [~~instagram~~](https://www.instagram.com/leonardolamha/) [bsky](https://bsky.app/profile/lamha.bsky.social).
+Reviso e traduzo (en-ptbr, ptbr-en, de-ptbr) textos literários, acadêmicos, documentos técnicos e outros. Gostaria de legendar mais. Fui [roteirista e desenvolvedor](sobre#audiovisual) de projetos audiovisuais de 2012 a 2021 e publiquei [críticas e resenhas](sobre#outros) sobre literatura e outras mídias. Você pode me chamar em [leonardolamha@gmail.com](mailto:leonardolamha@gmail.com) ou mandar uma DM no [twitter](http://twitter.com/lnrdlmh), [instagram](https://www.instagram.com/leonardolamha/), [bsky](https://bsky.app/profile/lamha.bsky.social).
 
 
 [A internet é eu e você](/archives) é aonde deixo textinhos de ocasião sobre literatura e internet, enviados e armazenados também sob a forma de [newsletter no Substack](https://leonardolamha.substack.com/). Mas, na minha opinião, este site é melhor: apenas HTML e markdown, 100% livre de scripts, cookies e outras maldições.
@@ -29,7 +29,6 @@ Franz Kafka. _Cartas a Milena_ (no prelo).
 Kenneth Burke. _Uma retórica de motivos_. Editora Machado. 2026 (no prelo)
 
 Harold Innis. _Império e Comunicações_. Editora Machado. 2025. ([Site da editora](https://machadoeditora.com/produto/imperio-e-comunicacoes/))
-
 
 ![Innis](/images/_innis.png)
 
@@ -66,22 +65,14 @@ Danise McCoskey, ["Presente de grego: como neonazistas e gregos antigos se encon
 
 # Artigos e resenhas
 
-{|<} 2023
-
 ['Os fantasmas não vão morrer de fome, mas nós pereceremos': a crítica midiática e os fantasmas epistolares na correspondência de Franz Kafka](https://www.e-publicacoes.uerj.br/matraga/article/view/75032/715). _Revista Matraga - UERJ_ v.30,n.60.
 
-{|<} 2022
-
 [Exaustão pandêmica como exaustão midiática: notas sobre a compulsoriedade de mídias e cartas](https://www.academia.edu/111473402/EXAUST%C3%83O_PAND%C3%8AMICA_COMO_EXAUST%C3%83O_MIDI%C3%81TICA_NOTAS_SOBRE_A_COMPULSORIEDADE_DE_M%C3%8DDIAS_E_CARTAS). _Literatura em Movimento, pesquisa e inovação, v.9_
-
-{|<} 2021
 
 [Os abridores de veredas: ensaio sobre natureza e cultura em quatro críticos de Guimarães Rosa](https://doi.org/10.22456/2238-8915.116666)
 Revista Organon.
 
 [Arquivo, guerra e entretenimento: Pynchon como literatura documental a partir de Derrida e Kittler](https://periodicosonline.uems.br/index.php/REV/article/view/6525). Revista Revell.
-
-{|<} 2020
 
 [Ruído, noite e frio: resenha de "Gramofone, filme, typewriter", de Friedrich Kittler.](https://revista.internetlab.org.br/ruido-noite-e-frio-resenha-de-gramofone-filme-typewriter-de-friedrich-kittler/). Revista Internet & Sociedade, v.1, número 2, dez. 2020.
 
