@@ -10,8 +10,8 @@ html {
 }
 
 body {
-    font-size: 17px !important;
-    font-family: 'Gibson Book', Gibson, sans-serif; 
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
     color: black;
     max-width: 960px;       /* centraliza tudo */
     margin: 0 auto;
@@ -337,8 +337,8 @@ div.footnotes {
         z-index: 100;
     }
     #fonte-ctrl button {
-        background: var(--preto);
-        color: var(--fundo, #fff);
+        background: black;
+        color: white;
         border: none;
         border-radius: 50%;
         width: 36px;
